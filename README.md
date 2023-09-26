@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLV5Geut9rpUynmk9Gp8QQTDimNu9aJE40hA&usqp=CAU">
+<img src="http://harshitrajput.com/wp-content/uploads/2023/09/HARSHIT-RAJPUT.png">
 <h1 align="center">Hi 👋, I'm Harshit Rajput</h1>
 <h3 align="center">A passionate Tech Learner and innovator !</h3>
 
