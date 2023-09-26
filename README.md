@@ -1,5 +1,5 @@
 <img src="http://harshitrajput.com/wp-content/uploads/2023/09/HARSHIT-RAJPUT.png">
-<a href="www.harshitrajput.com>"<h1 align="center">Hi 👋, I'm Harshit Rajput</h1></a>
+<h1>Hi 👋, I'm Harshit Rajput</h1>
 <h3 align="center">A passionate Tech Learner and innovator !</h3>
 
 - 🔭 I’m currently working at [J Bulls Infotech Pvt Ltd](www.jbullsinfotech.com)
