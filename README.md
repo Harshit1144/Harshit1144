@@ -1,5 +1,5 @@
 <img src="http://harshitrajput.com/wp-content/uploads/2023/09/HARSHIT-RAJPUT.png">
-<h1 align="center">Hi 👋, I'm Harshit Rajput</h1>
+<a href="www.harshitrajput.com>"<h1 align="center">Hi 👋, I'm Harshit Rajput</h1></a>
 <h3 align="center">A passionate Tech Learner and innovator !</h3>
 
 - 🔭 I’m currently working at [J Bulls Infotech Pvt Ltd](www.jbullsinfotech.com)
@@ -18,12 +18,12 @@
 
 - 📄 Know about my experiences [http://harshitrajput.com/resume/](http://harshitrajput.com/resume/)
 
-- ⚡ Fun fact **Not so funny**
+- ⚡ Fun fact **200+ coffees completed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-it" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit.bizarre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit.bizarre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-it" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="harshit-it" height="30" width="40" /></a>
+<a href="www.harshitrajput.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-svg-png-icon-download-10.png" alt="harshit.rajput" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
