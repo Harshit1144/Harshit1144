@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jira, Xano, Wized, MERN stack and next JS**
 
-- 👯 I’m looking to collaborate with **Fellow Devops**
+- 👯 I’m looking to collaborate with **Fellow DevOps**
 
 - 👨‍💻 All of my projects are available at [www.harshitrajput.com](www.harshitrajput.com)
 
