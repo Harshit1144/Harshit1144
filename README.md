@@ -1,4 +1,4 @@
-<img src="http://harshitrajput.com/wp-content/uploads/2023/09/HARSHIT-RAJPUT.png">
+<img src="http://harshitrajput.com/wp-content/uploads/2023/09/HARSHIT-RAJPUT-1.gif">
 <h1 align="center">Hi 👋, I'm Harshit Rajput</h1>
 <h3 align="center">A passionate Tech Learner and innovator !</h3>
 
