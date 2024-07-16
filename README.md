@@ -2,15 +2,11 @@
 <h1>Hi 👋, I'm Harshit Rajput</h1>
 <h3 align="center">A passionate Tech Learner and innovator !</h3>
 
-- 🔭 I’m currently working at [J Bulls Infotech Pvt Ltd](www.jbullsinfotech.com)
 
 - 🌱 I’m currently learning **Jira, Xano, Wized, MERN stack and next JS**
 
 - 👯 I’m looking to collaborate with **Fellow DevOps**
 
-- 👨‍💻 All of my projects are available at [www.harshitrajput.com](www.harshitrajput.com)
-
-- 📝 I regularly write articles on [www.harshitrajput.com/blog](www.harshitrajput.com/blog)
 
 - 💬 Ask me about **WordPress, pHp, Laravel**
 
