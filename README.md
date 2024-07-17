@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **harshit.rajput@jbullsinfotech.com**
 
-- 📄 Know about my experiences [http://harshitrajput.com/resume/](http://harshitrajput.com/resume/)
-
 - ⚡ Fun fact **200+ coffees completed**
 
 <h3 align="left">Connect with me:</h3>
